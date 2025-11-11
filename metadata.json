@@ -1,0 +1,5 @@
+{
+  "name": "Smart-tutor",
+  "description": "An AI-powered educational tool for elementary school teachers and students in Kazakhstan. Teachers can generate lesson plans and tasks, while students can receive topic explanations, complete assignments, and get instant, helpful feedback on their work.",
+  "requestFramePermissions": []
+}
